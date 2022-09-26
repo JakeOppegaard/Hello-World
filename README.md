@@ -1,6 +1,6 @@
 # Project Title
 *Sample Hello World*
 ## Description
-- Sample read me
+- Sample README
 ## Files Used
 **No Files Used**
